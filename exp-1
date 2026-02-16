@@ -1,0 +1,19 @@
+1.Create a simple cloud software application and provide it as a service using any Cloud Service Provider to demonstrate Software as a Service (SaaS). Provider to demonstrate Software as a Service (SaaS). 
+
+Aim:
+To create and deploy a simple cloud-based software application and provide it as a service using a Cloud Service Provider, thereby demonstrating the concept of Software as a Service (SaaS).
+
+Procedure:
+1.A Zoho Creator account was created and logged in using valid credentials.
+2.A new cloud application was created using the Zoho Creator application builder.
+3.Forms were designed to collect required user input and application data.
+4.Fields and validations were configured to ensure correct data entry.
+5.Workflows were added to automate basic actions such as saving and updating records.
+6.Reports were generated to view and manage stored data.
+7.The application was deployed on the Zoho Creator cloud platform.
+8.The application was shared using a public or user-specific URL for online access.
+Output
+The cloud software application was successfully created and deployed using Zoho Creator. The application was accessed through a web browser using a shared application URL. Users were able to use the software without installing it on their local systems, and all data was stored securely in the cloud. This confirms that the application was delivered as Software as a Service (SaaS).
+
+Result:
+Thus, a simple cloud software application was successfully created and deployed using a Cloud Service Provider. The application was accessed through the internet as a service, without requiring local installation, thereby successfully demonstrating the concept of Software as a Service (SaaS).
